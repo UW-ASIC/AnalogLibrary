@@ -2,13 +2,12 @@
 
 This repository exists as the official library that UWASIC's analog team will be using. For now it consists of:
 
-#### Python-Customizable Components:
+- Operational Amplifiers
+- Current_S&H
+- Current Multiplier
+- TransImpedance Amplifier (TIA)
+  - RGC
 
-- OpAmps
-- Trans-Impedence Amplifiers (TIAs) [OpAmp Based]
-- CurrentSource [In-progress]
-- FlashADC [In-progress]
-- CurrSteerDAC [In-progress]
+#### Developers
 
-#### Rigid Components:
-
+Please create a new folder for your component if it doesnt yet exist, and create testbenches for your component.
