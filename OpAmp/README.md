@@ -1,28 +1,3 @@
-### Official Analog Library for UWASIC
-
-This repository exists as the official library that UWASIC's analog team will be using.
-
-> **Note**: This README is auto-generated. Module information is aggregated from individual module READMEs.
-> To update this file, modify the respective module's README.md and push your changes.
-
----
-
-## Modules
-
-### ADC
-
-*Documentation coming soon...*
-
-### AnalogMux
-
-*Documentation coming soon...*
-
-### DAC
-
-*Documentation coming soon...*
-
-### OpAmp
-
 ## OpAmp (Operational Amplifier)
 
 Two-stage Miller-compensated operational amplifier designed for the Sky130 PDK. Supports programmatic variant generation with customizable specifications.
@@ -129,16 +104,3 @@ For complete parameter documentation:
 ```bash
 python GenerateVariant.py --help
 ```
-
-### TIAs
-
-*Documentation coming soon...*
-
-
----
-
-
-## Tools
-
-
-*Tools documentation coming soon...*
